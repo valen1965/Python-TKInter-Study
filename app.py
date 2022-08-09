@@ -10,8 +10,6 @@ root.title('Codemy.com - Learn to Code')
 root.geometry("400x600")
 #
 #
-#
-
 myLabel = Label(root, text="Enter your first name:")
 myLabel.pack()
 
